@@ -1,13 +1,20 @@
 <<<<<<< HEAD
-# djang_ak
+# DJANG AK
 
-A new Flutter project.
+A new way to learn "wolof"
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for an quizz/online course Flutter's application.
 
-A few resources to get you started if this is your first Flutter project:
+Resources to get you started if you want to use this template:
+
+DEPENDENCIES:
+Flutter animate
+### flutter pub add flutter_animate
+
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
