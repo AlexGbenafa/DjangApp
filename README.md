@@ -57,6 +57,7 @@ Page Transition: `import 'package:page_transition/page_transition.dart';`
 ### FUNCTIONALITIES
 * Splash screen
 * Quizz + results
+* Data/models
 * Data passage
 * Popups
 
