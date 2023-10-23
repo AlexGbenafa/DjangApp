@@ -55,3 +55,11 @@ Animated splash screen: `import 'package:animated_splash_screen/animated_splash_
 Page Transition: `import 'package:page_transition/page_transition.dart';`
 
 
+### FUNCTIONALITY
+* Splash screen
+* Quizz + results
+* Data passage
+* Popups
+
+
+
