@@ -11,7 +11,7 @@ Resources to get you started if you want to use this template:
 
 DEPENDENCIES:
 Flutter animate
-'flutter pub add flutter_animate'
+`flutter pub add flutter_animate`
 
 
 
