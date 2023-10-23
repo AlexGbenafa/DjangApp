@@ -31,7 +31,7 @@ This project is a starting point for an quizz/online course Flutter's applicatio
 
 Resources to get you started if you want to use this template:
 
-###DEPENDENCIES:
+### DEPENDENCIES:
 
 Install these dependencies from the terminal in the root folder.
 
@@ -55,15 +55,3 @@ Animated splash screen: `import 'package:animated_splash_screen/animated_splash_
 Page Transition: `import 'package:page_transition/page_transition.dart';`
 
 
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Djang_App
-Quizz/Online course App template from my flutter journey
->>>>>>> 9244ecfd9f44a88752a2ce80f8c2644649ddf2ca
