@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DJANG AK
 
 A new way to learn "wolof"
