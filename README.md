@@ -9,8 +9,18 @@ A new way to learn "wolof"
     <td align="center"><img src="/screen/menu.png" alt="Image 2"></td>
   </tr>
   <tr>
-    <td align="center">Image 1</td>
-    <td align="center">Image 2</td>
+    <td align="center">Home</td>
+    <td align="center">Menu</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center"><img src="/screen/quizz.png" alt="Image 1"></td>
+    <td align="center"><img src="/screen/cours.png" alt="Image 2"></td>
+  </tr>
+  <tr>
+    <td align="center">Quizz</td>
+    <td align="center">Courses</td>
   </tr>
 </table>
 
