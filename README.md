@@ -62,7 +62,5 @@ Page Transition: `import 'package:page_transition/page_transition.dart';`
 * Quizz + results
 * Data/models
 * Data passage
-* Popups
-
 
 
