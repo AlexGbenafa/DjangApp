@@ -4,6 +4,10 @@
 A new way to learn "wolof"
 
 ![Texte alternatif](/screen/home.png)
+![Texte alternatif](/screen/menu.png)
+![Texte alternatif](/screen/quizz.png)
+![Texte alternatif](/screen/result.png)
+![Texte alternatif](/screen/cours.png)
 
 
 ## Getting Started
