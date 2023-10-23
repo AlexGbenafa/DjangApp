@@ -13,41 +13,24 @@ Resources to get you started if you want to use this template:
 
 Install these dependencies from the terminal in the root folder.
 
-Flutter animate:
+Flutter animate: `flutter pub add flutter_animate`
 
-`flutter pub add flutter_animate`
+Flutter rating bar: `flutter pub add flutter_rating_bar`
 
-Flutter rating bar:
+Animated splash screen: `flutter pub add animated_splash_screen`
 
-`flutter pub add flutter_rating_bar`
-
-
-Animated splash screen:
-
-`flutter pub add animated_splash_screen`
-
-Page Transition:
-
-`flutter pub add page_transition`
+Page Transition: `flutter pub add page_transition`
 
 
 Then immport theme in files where they need to be used
 
-Flutter animate:
+Flutter animate: `import 'package:flutter_animate/flutter_animate.dart';`
 
-`import 'package:flutter_animate/flutter_animate.dart';`
+Flutter rating bar: `import 'package:flutter_rating_bar/flutter_rating_bar.dart';`
 
-Flutter rating bar:
+Animated splash screen: `import 'package:animated_splash_screen/animated_splash_screen.dart';`
 
-`import 'package:flutter_rating_bar/flutter_rating_bar.dart';`
-
-Animated splash screen:
-
-`import 'package:animated_splash_screen/animated_splash_screen.dart';`
-
-Page Transition:
-
-`import 'package:page_transition/page_transition.dart';`
+Page Transition: `import 'package:page_transition/page_transition.dart';`
 
 
 
