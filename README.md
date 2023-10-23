@@ -3,6 +3,9 @@
 
 A new way to learn "wolof"
 
+![Texte alternatif](/screen/home.png)
+
+
 ## Getting Started
 
 This project is a starting point for an quizz/online course Flutter's application.
