@@ -3,11 +3,16 @@
 
 A new way to learn "wolof"
 
-![Texte alternatif](/screen/home.png)
-![Texte alternatif](/screen/menu.png)
-![Texte alternatif](/screen/quizz.png)
-![Texte alternatif](/screen/result.png)
-![Texte alternatif](/screen/cours.png)
+<table>
+  <tr>
+    <td align="center"><img src="/screen/home.png" alt="Image 1"></td>
+    <td align="center"><img src="/screen/menu.png" alt="Image 2"></td>
+  </tr>
+  <tr>
+    <td align="center">Image 1</td>
+    <td align="center">Image 2</td>
+  </tr>
+</table>
 
 
 ## Getting Started
