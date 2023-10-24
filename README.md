@@ -23,6 +23,9 @@ A new way to learn "wolof"
   </tr>
 </table>
 
+## FIGMA
+
+`https://www.figma.com/file/7zUrqWoFCv3EkqyW4OX9lp/ATELIER-PROGRAMMATION-MOBILE?type=design&mode=design&t=xwh5F4cpuC8nc2gd-1`
 
 ## Getting Started
 
